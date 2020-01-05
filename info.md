@@ -1,6 +1,6 @@
 ## LightRed
 
-light red Blue with white accent Colors for [Home Assistant](https://www.home-assistant.io) 
+light red with white accent Colors for [Home Assistant](https://www.home-assistant.io) 
 
 
 ## Installation
