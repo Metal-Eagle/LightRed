@@ -38,3 +38,5 @@ cch:
 
 
 ### Credit
+
+The Home assistant [forum](https://community.home-assistant.io/)
