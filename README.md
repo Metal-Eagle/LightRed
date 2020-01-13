@@ -1,6 +1,6 @@
 ## LightRed
 
-light red with white accent Colors for [Home Assistant](https://www.home-assistant.io) 
+light red with white accent Colors for [Home Assistant](https://www.home-assistant.io) <br>
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
 ## Installation
